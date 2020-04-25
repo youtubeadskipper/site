@@ -12,6 +12,7 @@ html {
 
 body {
     font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+    font-display: swap;
 }
 
 hr {
@@ -323,10 +324,6 @@ header.masthead p {
 /*custom*/
 .name { 
     font-family: sans-serif;
-}
-
-.btn-forward {
-    transform: scale(1.5, 1);
 }
 
 #projects {

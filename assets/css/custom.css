@@ -1,12 +1,3 @@
-@font-face {
-    font-family: "that i love you";
-    src: url("../fonts/that i love you - TTF.ttf");
-}
-
-.hearts{
-    font: 2.0rem "that i love you", sans-serif;
-}
-
 /*social icons*/
 a.social-icons {
     color: white;
